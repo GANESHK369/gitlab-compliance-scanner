@@ -1,7 +1,7 @@
 import requests
 
 GITLAB_URL = "https://gitlab.com/api/v4/projects"
-TOKEN = "glpat-x1BtidXZPp3pF8WIP4MzLWM6MQpvOjEKdTpqNGtyeQ8.01.170yjxg6o"
+TOKEN = "YOUR_PAT"
 
 headers = {
     "PRIVATE-TOKEN": TOKEN
