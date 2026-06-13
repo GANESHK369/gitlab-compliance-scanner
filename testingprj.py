@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "glpat-x1BtidXZPp3pF8WIP4MzLWM6MQpvOjEKdTpqNGtyeQ8.01.170yjxg6o"
+TOKEN = "your_pat"
 
 response = requests.get(
     "https://gitlab.com/api/v4/projects?owned=true",
